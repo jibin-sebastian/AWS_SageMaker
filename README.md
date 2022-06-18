@@ -12,10 +12,14 @@ Click Amazon SageMaker > Notebook instances > Create notebook instance
 
 # Steps To Be Followed:
 
-Importing necessary Libraries
-Creating S3 bucket
-Mapping train And Test Data in S3
-Mapping The path of the models in S3
+Importing necessary Libraries.
+
+Creating S3 bucket.
+
+Mapping train And Test Data in S3.
+
+Mapping The path of the models in S3.
+
 
 
 ![image](https://user-images.githubusercontent.com/84179246/174437995-c19e9a93-6ce2-4a1c-bafa-4d36dacd0f2e.png)
